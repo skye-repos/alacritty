@@ -9,15 +9,15 @@ TERM = "xterm-256color"
 size = 24
 
 [font.normal]
-family = "DM Mono"
+family = "DMMono Nerd Font"
 style = "Regular"
 
 [font.bold]
-family = "DM Mono"
+family = "DMMono Nerd Font"
 style = "Bold"
 
 [font.italic]
-family = "DM Mono"
+family = "DMMono Nerd Font"
 style = "Italic"
 
 [window]

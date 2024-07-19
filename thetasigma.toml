@@ -1,6 +1,6 @@
 [colors.primary]
 background = "#04040C"
-foreground = "#FFD7FE"
+foreground = "#FFE7FE"
 dim_foreground = "#FFD0EF"
 bright_foreground = "#F9FFF9"
 

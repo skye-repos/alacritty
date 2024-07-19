@@ -1,1 +1,7 @@
-Alacritty config, can't seem to get the colors right
+
+* A quick Alacritty configuration
+A simple setup to make the terminal match the rest of my setup.
+
+1) Theme: This is a low-contrast port of my [[https://github.com/skye-repos/thetasigma-emacs][Emacs Theme]] named Θ Σ Emacs.
+2) Font: I use DMMono patched with the nerd fonts support [[https://github.com/minhuw/dm-mono-nerd-font][found on github
+   here]]. The original font can be found [[https://fonts.google.com/specimen/DM+Mono][on google]].
