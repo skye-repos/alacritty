@@ -1,23 +1,21 @@
-import = [
-       "~/.config/alacritty/thetasigma.toml"
-]
+import = ["~/.config/alacritty/thetasigma.toml"]
 
 [env]
 TERM = "xterm-256color"
 
 [font]
-size = 24
+size = 16
 
 [font.normal]
-family = "DMMono Nerd Font"
+family = "0xProto Nerd Font"
 style = "Regular"
 
 [font.bold]
-family = "DMMono Nerd Font"
-style = "Bold"
+family = "0xProto Nerd Font"
+style = "Medium"
 
 [font.italic]
-family = "DMMono Nerd Font"
+family = "0xProto Nerd Font"
 style = "Italic"
 
 [window]
