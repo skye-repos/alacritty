@@ -20,7 +20,7 @@ style = "Italic"
 
 [window]
 dynamic_padding = true
-opacity = 0.8
+opacity = 0.95
 blur = true
 startup_mode = "Maximized"
 option_as_alt = "Both"
